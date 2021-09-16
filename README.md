@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about anything you see here on my repo
+- 💬 Ask me about anything!
 - 📫 You can reach me at lopez.olivia17@outlook.com
 
 <!--
