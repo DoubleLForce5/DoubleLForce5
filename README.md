@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-Ny nme is Olivia 
-- 👯 I'm interested in becoming a 
-- 📫 You can reach me at lopez.olivia17@outlook.com
+- 👯 I'm interested in joining an awesome team
+- 💬 Ask me about anything you found interesting on my repo
+- 📫 You can reach me at: lopez.olivia17@outlook.com
 
 <!-- ### Hi there 👋 -->
 
