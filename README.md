@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-- 👯 I'm interested in joining an awesome team
 - 💬 Ask me about anything you find interesting on my repo
 - 📫 You can reach me at: lopez.olivia17@outlook.com
 
