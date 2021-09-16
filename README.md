@@ -1,7 +1,13 @@
-### Hi there 👋
 
-- 💬 Ask me about anything!
+<h3>
+  Hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+- 👯 I'm interested in becoming a 
 - 📫 You can reach me at lopez.olivia17@outlook.com
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **DoubleLForce5/DoubleLForce5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
