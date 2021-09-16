@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+💬 Ask me about anything you see here on my repo
+📫 You can reach me at lopez.olivia17@outlook.com
+
 <!--
 **DoubleLForce5/DoubleLForce5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
