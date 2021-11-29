@@ -5,6 +5,7 @@
 
 - 💬 Ask me about anything you find interesting on my repo
 - 📫 You can reach me at: lopez.olivia17@outlook.com
+- 👯 Let's be friends, connect with me on LinkedIn https://www.linkedin.com/in/olivialopez17/!
 
 <!-- ### Hi there 👋 -->
 
