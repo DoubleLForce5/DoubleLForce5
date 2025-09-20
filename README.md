@@ -4,7 +4,6 @@
 </h2>
 
 - 💬 Ask me about anything you find interesting here
-- 📫 You can reach me at: lopez.olivia21@gmail.com
 
 <!-- ### Hi there 👋 -->
 
