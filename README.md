@@ -5,7 +5,6 @@
 
 - 💬 Ask me about anything you find interesting here
 - 📫 You can reach me at: lopez.olivia21@gmail.com
-- 👯 Connect with me on LinkedIn https://www.linkedin.com/in/olivialopez17/!
 
 <!-- ### Hi there 👋 -->
 
